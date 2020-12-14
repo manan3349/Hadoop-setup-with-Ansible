@@ -1,0 +1,4 @@
+[defaults]
+inventory = /root/ansible-ws/ip.txt
+host_key_checking = false
+deprection_warnings = false
